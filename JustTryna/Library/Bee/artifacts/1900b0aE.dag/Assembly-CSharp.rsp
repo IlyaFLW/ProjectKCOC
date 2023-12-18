@@ -381,6 +381,7 @@
 "Assets/Scripts/lvl1contols.cs"
 "Assets/Scripts/Lvl1Loader.cs"
 "Assets/Scripts/lvl1popupfail.cs"
+"Assets/Scripts/pairGame.cs"
 "Assets/Scripts/Piece.cs"
 "Assets/Scripts/playBut.cs"
 "Assets/Scripts/spwn.cs"
